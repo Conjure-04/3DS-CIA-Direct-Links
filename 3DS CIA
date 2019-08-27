@@ -1,0 +1,6 @@
+echo "# 3DS-CIA-Direct-Links" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Conjure-04/3DS-CIA-Direct-Links.git
+git push -u origin master
